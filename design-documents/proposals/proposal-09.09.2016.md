@@ -3,21 +3,22 @@ By Ferdinand Swart:
 Tree Coin would be a distributed currency to the benefit of the global climate and of cash-poor rural communities worldwide.
 
 ## TREE COIN
-Why NOW? Because it’s possible!
-IT and system development brought us a scala of new technologies, to learn from and to combine:
-Blockchain		to secure transactions and registration
-DAO, Dash		how to control operation by the users
-Microfinance		how to use group control + monitoring
-Cyclos.org		how to code pro-poor banking software
-M-PESA		how to distribute money by mobile phone
-GPS + photo		how to register a location
-Satellite pictures	to monitor land-use change
-AirBnB		how to do ratings and self promotion
-Serious Games	to use attractive reward systems 
-Wikipedia		how to run a “solution wiki” and “location wiki”
-Fair.coop		to cooperate with other groups to build a parallel economy
-Design thinking 	how to design online integrated projects location
-Etc.
+Why NOW? Because it’s possible!  
+
+IT and system development brought us a scala of new technologies, to learn from and to combine:  
+- Blockchain		to secure transactions and registration  
+- DAO, Dash		how to control operation by the users  
+- Microfinance		how to use group control + monitoring  
+- Cyclos.org		how to code pro-poor banking software  
+- M-PESA		how to distribute money by mobile phone  
+- GPS + photo		how to register a location  
+- Satellite pictures	to monitor land-use change  
+- AirBnB		how to do ratings and self promotion  
+- Serious Games	to use attractive reward systems   
+- Wikipedia		how to run a “solution wiki” and “location wiki”  
+- Fair.coop		to cooperate with other groups to build a parallel economy  
+- Design thinking 	how to design online integrated projects location  
+- Etc.
 
 Combining these techniques should open new path, an efficient way to reach to the margins of this world and open a venue for all to get some cash income without migrating. And save the climate.
 
